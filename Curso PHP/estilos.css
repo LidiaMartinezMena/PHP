@@ -1,0 +1,42 @@
+body {
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color: #d7fae1;
+  }
+
+.formulario{
+    background-color: #aaddb9;
+    width: 40rem;
+    height: auto;
+    margin: auto;
+    padding: 2rem;
+    border-radius: 2rem;
+    line-height: 30px;
+
+}
+label{
+    display: inline-block;
+    width: 200px;
+}
+
+h2{
+    background-color: #b7fac9;
+    color:#327244;
+    border:1px solid #335f40;
+    border-radius: 1rem;
+    font-size: 20px;
+    padding: 0.5rem;
+    margin-top: 15px;
+}
+
+.form-boton{
+    background-color:  #b7fac9;
+    color:#327244;
+    border:1px solid #335f40;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 0.5rem;
+    margin-top: 15px;
+    display: flex;
+
+}
